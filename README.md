@@ -5,14 +5,14 @@ My name is Anthony and I am a professional software engineer!
 🔭 I’m currently working on a portfolio website in its early stages which you can find [here](https://github.com/anthonycella/Anthony-Cella)
 
 🏔 Some previous work:
-- [Predicting Parkinson's](https://github.com/anthonycella/predicting_parkinsons) a machine learning algorithm designed to predict parkinson's disease in patients.
-- [Vroom](https://github.com/anthonycella/Vroom) a rideshare app created as a part of a team to decrease road trip costs.
-- [Noogle Translate](https://github.com/anthonycella/Noogle-Translate) a mix between Stack Overflow and official documentation: users can search for a topic and find a tutorial in several different languages, allowing software engineers to learn new languages more quickly.
+- [Predicting Parkinson's](https://github.com/anthonycella/predicting_parkinsons): a machine learning algorithm designed to predict parkinson's disease in patients.
+- [Vroom](https://github.com/anthonycella/Vroom): a rideshare app created as a part of a team to decrease road trip costs.
+- [Noogle Translate](https://github.com/anthonycella/Noogle-Translate): a mix between Stack Overflow and official documentation: users can search for a topic and find a tutorial in several different languages, allowing software engineers to learn new languages more quickly.
 
 🛠 Tools in my toolbox:
-Frontend: React JavaScript HTML CSS Styled Components
-Backend: Java Python Node.js Express.js
-Database: MySQL PostgreSQL MongoDB
+- Frontend: React JavaScript HTML CSS Styled Components
+- Backend: Java Python Node.js Express.js
+- Database: MySQL PostgreSQL MongoDB
 
 🏝 Fun fact: I have been to 15 different countries!
 
